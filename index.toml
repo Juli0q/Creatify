@@ -52,6 +52,11 @@ hash = "4446114023212017387263c94e75b9e3ff626289a8802c34bfc3813de2ebbd1e"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
@@ -199,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
