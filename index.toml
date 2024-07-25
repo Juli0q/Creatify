@@ -1,2 +1,86 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "cc0eee8c6e2df7fa84c66ad42ce725c1ee29b1ca6c3b928f0ab7ab43f2554581"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "4446114023212017387263c94e75b9e3ff626289a8802c34bfc3813de2ebbd1e"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "d89e6fb6ea41f40a0792056bb283dc88b7a08d5b2aec25ca8ca119917f1ff60a"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
+metafile = true
+
+[[files]]
+file = "mods/create-structures.pw.toml"
+hash = "f0323722f66e5b288875294fb083404998a5891751e9460c1f4a4f44626bcc2c"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/golden-age-combat.pw.toml"
+hash = "ca382e88a408ba70f7bdaf7ef611dc4d8f357928e00c235c99a53109ad9a4229"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/sword-blocking-mechanics.pw.toml"
+hash = "6fd6d0026192e948a7b488c19a4953d72921b5db4008e190f05b5211648815ed"
+metafile = true

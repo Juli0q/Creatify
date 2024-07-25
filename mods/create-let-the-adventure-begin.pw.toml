@@ -1,0 +1,13 @@
+name = "Create: Let The Adventure Begin"
+filename = "create_ltab_fabric-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/foASRpBN/create_ltab_fabric-2.0.1.jar"
+hash-format = "sha1"
+hash = "917a8d0530e9fce7cd07f59072845c341cef7e30"
+
+[update]
+[update.modrinth]
+mod-id = "fUa6OtBG"
+version = "foASRpBN"
