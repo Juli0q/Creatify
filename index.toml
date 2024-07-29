@@ -436,6 +436,10 @@ hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "9b1640ace681a77104187e26f29bbab2a015b679eeedc437e7b0b57a6d12890b"
+
+[[files]]
 file = "shaderpacks/Aurora's Shaders.zip"
 hash = "12272ca59566de36e1bad4e56e0db79d55b241094329ac93b30e86b6a8303ed5"
 
