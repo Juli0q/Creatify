@@ -1,0 +1,8 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-fabric-2.1.3-a-dev-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://download.ionnet.work/f/8525826809564914a02c/?dl=1"
+hash-format = "sha256"
+hash = "9e03938c2a3cb10c48880c13cfdcec74643e280e45295ad3ef665ef9fdad8d72"
