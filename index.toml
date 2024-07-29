@@ -18,11 +18,12 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "8e507717adf52bd0eb1e930ed1cc243fa39a7b583571792c7c2821c4221cc8ba"
+hash = "14da427dc1b8f1fa33a58668e5889dfb04a0ae1caeabe39ea13cfa3148f8bc89"
 
 [[files]]
-file = "dummy"
-hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+file = "backup/distanthorizons.pw.toml"
+hash = "ec0152267703da1c5b80a3f939af0c799a406b33fae7b864bbca01da969825dd"
+metafile = true
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -433,3 +434,27 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Aurora's Shaders.zip"
+hash = "12272ca59566de36e1bad4e56e0db79d55b241094329ac93b30e86b6a8303ed5"
+
+[[files]]
+file = "shaderpacks/BSL_v8.2.09.zip"
+hash = "b9f9e70c83f04830007ec06e6d7c3e0fafe90c6af53355e4248ab0a59ca1cf48"
+
+[[files]]
+file = "shaderpacks/Bliss_v2.0.4_(Chocapic13_Shaders_edit).zip"
+hash = "33dd4636cf1aadc6f326751008e5f871f01794078981f077c2f2ef881fdaa33f"
+
+[[files]]
+file = "shaderpacks/Bloop-1.3.0.zip"
+hash = "56743f4748b137189cf0b41e60d5eb5a2b3560d1b364110f1fce7c2604219043"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+hash = "3b0cd5c36afebdcd74521a447ca5f2b0d6f9c1c8c8416a9f20d9bedc271a8e1c"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
+hash = "d880aba42c6dc89816450a143f746ddb56ff00faa9241e12af20e6e966c02f00"
