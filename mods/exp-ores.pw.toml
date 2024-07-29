@@ -1,0 +1,13 @@
+name = "Exp Ores"
+filename = "expores-1.0.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a8H99agr/versions/eYO04MhB/expores-1.0.0%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "cf714fe23103a6b462bf1ab7753872c9dd15fcd2"
+
+[update]
+[update.modrinth]
+mod-id = "a8H99agr"
+version = "eYO04MhB"

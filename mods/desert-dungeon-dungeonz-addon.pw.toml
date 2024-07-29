@@ -1,0 +1,13 @@
+name = "Desert Dungeon - DungeonZ addon"
+filename = "desert-dungeon-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/zun2vT3k/versions/dGOSSdyX/desert-dungeon-1.0.0.jar"
+hash-format = "sha1"
+hash = "a4e2b32642f4ea179f24a71478c2c66af9bebfbd"
+
+[update]
+[update.modrinth]
+mod-id = "zun2vT3k"
+version = "dGOSSdyX"

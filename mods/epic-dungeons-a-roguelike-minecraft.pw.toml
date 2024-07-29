@@ -1,0 +1,13 @@
+name = "Epic Dungeons: A Roguelike Minecraft"
+filename = "Epic Dungeons-0.1.04-Fabric-1.19-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iAwGa4r9/versions/40KkKOxS/Epic%20Dungeons-0.1.04-Fabric-1.19-1.20.4.jar"
+hash-format = "sha1"
+hash = "3e5446977fcfe6f2ee9bce8a8057833b0fed44b2"
+
+[update]
+[update.modrinth]
+mod-id = "iAwGa4r9"
+version = "40KkKOxS"

@@ -1,0 +1,13 @@
+name = "Mythic Lib"
+filename = "mythiclib-1.1.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Umsczw3y/versions/hjc0Imm7/mythiclib-1.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "de015c7571a7e8f376c9ce389684aac87657f5a7"
+
+[update]
+[update.modrinth]
+mod-id = "Umsczw3y"
+version = "hjc0Imm7"
