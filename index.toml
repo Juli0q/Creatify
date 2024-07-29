@@ -18,7 +18,11 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "70e5694c4751ef9b03d59278f9dad7d6f7c18b664acbbf736a10b12fcb5aaac2"
+hash = "8e507717adf52bd0eb1e930ed1cc243fa39a7b583571792c7c2821c4221cc8ba"
+
+[[files]]
+file = "dummy"
+hash = "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
