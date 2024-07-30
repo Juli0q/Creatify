@@ -161,6 +161,11 @@ hash = "bd4fe22c4c06d01fad7637910766579a690b686c4f5d7d4abc9f8321ec032e58"
 metafile = true
 
 [[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "c163559322c64b37c02074f0774da6de8a5a2c6dd6f5cd7b51775596769268e1"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
