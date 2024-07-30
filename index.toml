@@ -246,6 +246,11 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "3617bcf1786f111f8a472145a13e02bdf24d2c2dadeaf294113fccd9acb6e1fa"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
 metafile = true
@@ -376,6 +381,16 @@ hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "41f18dab192c79a4f4ec38422b38c3d6198ebae71abab86cfbf305a1d008c051"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "a8e48a0dadfaa8492f5e46ed3555dcaa2f6cb15bf7b7819fef018ec3e60d3706"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
@@ -393,6 +408,16 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
